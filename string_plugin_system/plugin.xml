@@ -1,0 +1,7 @@
+<library path="reverse_string_plugin">
+    <class type="ReverseStringPlugin" base_class_type="StringPluginBase"/>
+</library>
+
+<library path="count_char_plugin">
+    <class type="CountCharPlugin" base_class_type="StringPluginBase"/>
+</library>
